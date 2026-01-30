@@ -7,3 +7,4 @@
 7. Practice Code
 8. Conduct Test
 9. Conduct Exam
+10. Wait for Result
